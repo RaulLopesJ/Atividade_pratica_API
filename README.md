@@ -1,2 +1,2 @@
 # Atividade_pratica_API
- Kanban API com JWT e Oauth
+ Atividade pratica 4S turma B Kanban API com JWT e Oauth
